@@ -87,5 +87,5 @@ The system is designed with **Object-Oriented Programming principles**, using mu
 ---
 
 ## 👨‍💻 Author
-Developed by **[Your Name]**  
-🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+Developed by **[Tamer Mohamed]**  
+🔗 [LinkedIn](https://www.linkedin.com/in/tamer-mohamed-509b66362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
